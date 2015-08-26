@@ -1,0 +1,32 @@
+body p {
+  color: green; }
+.main__root___C-0gg {
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  padding: 0 20px;
+  margin: 0 6px;
+  max-width: 400px; }
+  .main__root___C-0gg p {
+    color: red; }
+
+.main__text___1kqgo {
+  color: #777;
+  font-size: 24px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 600; }
+.sampleComponent__root___1ZzM_ {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #777;
+  padding: 0 20px;
+  margin: 0 6px;
+  max-width: 400px; }
+
+.sampleComponent__text___3LXJx {
+  color: #777;
+  font-size: 24px;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 600; }
+
+/*# sourceMappingURL=style.css.map*/
