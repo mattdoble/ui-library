@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-babel",
+  "name": "ui-library",
   "version": "0.0.2",
-  "description": "React Webpack Babel Starter Kit",
+  "description": "ui-library",
   "main": "''",
   "scripts": {
     "build": "webpack --progress --profile --colors",
@@ -26,6 +26,7 @@
     "react-hot-loader": "^1.2.9",
     "sass-loader": "^2.0.1",
     "style-loader": "^0.12.3",
+    "susy": "^2.2.5",
     "webpack": "^1.9.11",
     "webpack-dev-server": "^1.10.1"
   }

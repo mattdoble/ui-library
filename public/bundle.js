@@ -27972,7 +27972,7 @@
 	        'div',
 	        { className: _mainScss2['default'].root },
 	        _react2['default'].createElement(
-	          'p',
+	          'a',
 	          null,
 	          'Hello, testing...'
 	        )
@@ -27995,7 +27995,7 @@
 /***/ function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
-	module.exports = {"root":"main__root___C-0gg","text":"main__text___1kqgo"};
+	module.exports = {"common":"main__common___1zQwq","root":"main__root___TPE0N main__common___1zQwq","text":"main__text___3uATk"};
 
 /***/ },
 /* 218 */
@@ -28065,7 +28065,7 @@
 /***/ function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
-	module.exports = {"root":"sampleComponent__root___1ZzM_","text":"sampleComponent__text___3LXJx"};
+	module.exports = {"root":"sampleComponent__root___6cRO9","text":"sampleComponent__text___2lcPH"};
 
 /***/ }
 /******/ ]);

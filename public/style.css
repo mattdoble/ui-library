@@ -1,21 +1,26 @@
 body p {
   color: green; }
-.main__root___C-0gg {
+.main__common___1zQwq {
+  background: #eee; }
+
+.main__root___TPE0N {
   border-width: 2px;
   border-style: solid;
   border-color: red;
   padding: 0 20px;
   margin: 0 6px;
   max-width: 400px; }
-  .main__root___C-0gg p {
+  .main__root___TPE0N a {
     color: red; }
+    .main__root___TPE0N a:hover {
+      color: blue; }
 
-.main__text___1kqgo {
+.main__text___3uATk {
   color: #777;
   font-size: 24px;
   font-family: helvetica, arial, sans-serif;
   font-weight: 600; }
-.sampleComponent__root___1ZzM_ {
+.sampleComponent__root___6cRO9 {
   border-width: 2px;
   border-style: solid;
   border-color: #777;
@@ -23,7 +28,7 @@ body p {
   margin: 0 6px;
   max-width: 400px; }
 
-.sampleComponent__text___3LXJx {
+.sampleComponent__text___2lcPH {
   color: #777;
   font-size: 24px;
   font-family: helvetica, arial, sans-serif;

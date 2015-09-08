@@ -24,7 +24,7 @@ module.exports = {
     }, {
       test: /\.scss?$/,
       exclude: /node_modules/,
-      loader: ExtractTextPlugin.extract('style-loader', 'css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]!sass-loader')
+      loader: ExtractTextPlugin.extract('style-loader', 'css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]!sass?includePaths[]=' + path.resolve(__dirname, 'node_modules'))
     }
     ]
   },

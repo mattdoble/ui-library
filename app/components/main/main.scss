@@ -1,17 +1,25 @@
+@import '../../shared/styles/grid.scss';
 $red: red;
 
+.common {
+  background:#eee;
+}
+
 .root {
+  composes: common;
+  composes: span from '../../shared/styles/grid.scss';
   border-width: 2px;
   border-style: solid;
   border-color: $red;
   padding: 0 20px;
   margin: 0 6px;
-  max-width: 400px;
   
-  p {
+  a {
     color:$red;
+    &:hover {
+      color: blue;
+    }
   }
-
 }
 
 .text {
